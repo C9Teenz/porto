@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235090155142",
+    "project_id": "flutter-ticket-f4ad3",
+    "storage_bucket": "flutter-ticket-f4ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235090155142:android:065b0af89118d1eb0c2307",
+        "android_client_info": {
+          "package_name": "com.Munir.ticket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235090155142-blvbkr3btc88lea8su3svt7ns5a0kavf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQft9vpRYYUeurt3_eEJJd_-9VZ5kLHJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235090155142-blvbkr3btc88lea8su3svt7ns5a0kavf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
